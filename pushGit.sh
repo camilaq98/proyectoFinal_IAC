@@ -60,8 +60,8 @@ clear
 
    # Subir cambios a la rama remota
       echo "--------------------------------------------"   
-         git push origin $rama
-         echo "- Subir a $rama --------------------------"
+      git push origin $rama
+      echo "- Subir a $rama --------------------------"
       echo "--- Fin del Script -------------------------"
       read -p "Press [Enter] key to continue..." readEnterKey
       # Pedira acceso de credenciales en github por front desde el visual code
