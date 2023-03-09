@@ -21,8 +21,8 @@ clear
    fi
 
 # Configuracion gobal del repositorio
-   git config --global user.email "giovanemere@gmail.com"
-   git config --global user.name "giovanemere"
+   git config --global user.email "camilaqr.99@gmail.com"
+   git config --global user.name "camilaq98"
    git config --global core.autocrlf false
 
 # Preguntar si desea Clonar
